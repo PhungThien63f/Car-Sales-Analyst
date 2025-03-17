@@ -7,8 +7,8 @@
 
 # **Car Sales Dashboard**
 ### Page Overview
-- ![markdown](https://github.com/PhungThien63f/Car-Sales-Analyst/blob/main/Overview_page.png)
+ ![markdown](https://github.com/PhungThien63f/Car-Sales-Analyst/blob/main/Overview_page.png)
 
 ### Page Details
-- ![markdown](https://github.com/PhungThien63f/Car-Sales-Analyst/blob/main/Details_page.png)
+ ![markdown](https://github.com/PhungThien63f/Car-Sales-Analyst/blob/main/Details_page.png)
 
