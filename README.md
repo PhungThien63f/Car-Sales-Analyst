@@ -5,7 +5,7 @@
 ### **Jupyter Notebook**
 [Car Sales Analysis - Python](https://github.com/PhungThien63f/Car-Sales-Analyst/blob/main/Car%20Sales.ipynb)
 
-### **Power BI**
-- **Page Overview:** [Link to Power BI Overview](#)  
-- **Page Details:** [Link to Power BI Details](#)  
+### **Car Sales Dashboard**
+- [Page Overview](https://github.com/PhungThien63f/Car-Sales-Analyst/blob/main/Overview_page.png)
+- [Page Details](https://github.com/PhungThien63f/Car-Sales-Analyst/blob/main/Details_page.png)
 
