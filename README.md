@@ -6,6 +6,9 @@
 [Car Sales Analysis - Python](https://github.com/PhungThien63f/Car-Sales-Analyst/blob/main/Car%20Sales.ipynb)
 
 ### **Car Sales Dashboard**
+#### Page Overview
 - ![markdown](https://github.com/PhungThien63f/Car-Sales-Analyst/blob/main/Overview_page.png)
+
+#### Page Details
 - ![markdown](https://github.com/PhungThien63f/Car-Sales-Analyst/blob/main/Details_page.png)
 
