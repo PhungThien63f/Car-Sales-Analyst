@@ -1,7 +1,10 @@
 # Overview
-- Utilizing **Python** to perform an initial exploration and analysis of the car sales dataset, gaining insights into trends, distributions, and key metrics.
-- After that, leveraging **Power BI** to create interactive visualizations and dashboards, ensuring that the data effectively tracks the necessary **KPIs** required by stakeholders for informed decision-making.
 
+- Utilize Python for initial exploration and analysis of the car sales dataset, uncovering trends, distributions, and key insights.
+- Apply machine learning models (Linear Regression, Decision Tree, Random Forest, XGBoost) to predict car prices and evaluate their performance.
+- Deploy the best-performing model using Flask.
+- Leverage Power BI to develop interactive visualizations and dashboards, enabling stakeholders to track key KPIs for data-driven decision-making.
+- 
 ### **Jupyter Notebook**
 [Car Sales Analysis](https://github.com/PhungThien63f/Car-Sales-Analyst/blob/main/Car%20Sales.ipynb)
 
